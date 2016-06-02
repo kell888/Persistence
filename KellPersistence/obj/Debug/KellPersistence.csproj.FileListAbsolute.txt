@@ -1,0 +1,11 @@
+F:\2015\KellPersistence\KellPersistence\bin\Debug\KellPersistence.dll
+F:\2015\KellPersistence\KellPersistence\bin\Debug\KellPersistence.pdb
+F:\2015\KellPersistence\KellPersistence\obj\Debug\ResolveAssemblyReference.cache
+F:\2015\KellPersistence\KellPersistence\obj\Debug\KellPersistence.dll
+F:\2015\KellPersistence\KellPersistence\obj\Debug\KellPersistence.pdb
+F:\2015\KellPersistence\KellPersistence\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\soft\KellPersistence\KellPersistence\obj\Debug\KellPersistence.pdb
+E:\soft\KellPersistence\KellPersistence\bin\Debug\KellPersistence.dll
+E:\soft\KellPersistence\KellPersistence\bin\Debug\KellPersistence.pdb
+E:\soft\KellPersistence\KellPersistence\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\soft\KellPersistence\KellPersistence\obj\Debug\KellPersistence.dll
